@@ -27,17 +27,6 @@
   
 
   
-      ,"page1": {
-          "title": "About Me",
-          "content": "I use this blog to share both my knowledge and perspective on what I consider to be the most important topics of our time. You’ll learn far more about me and how I think from my articles than can be summed up on an “about me” page, so get reading. .",
-          "url": "https://rossheaton.com/about/",
-          "relUrl": "/about/",
-          "date": ""
-      }
-      
-  
-
-  
 
   
   
@@ -59,7 +48,7 @@
   
 
   
-      ,"page10": {
+      ,"page9": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://rossheaton.com/robots.txt",
