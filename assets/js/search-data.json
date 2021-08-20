@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": ".",
+          "content": "![](/images/me.png | width=400) | .",
           "url": "https://rossheaton.com/about/",
           "relUrl": "/about/",
           "date": ""
